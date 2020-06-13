@@ -45,13 +45,10 @@
 
                         </li>
                         <li class="nav-item">
-<<<<<<< HEAD
                             <a class="nav-link" href="{{ route('empleados.index') }}">{{ __('Empleados') }}</a>
 
                         </li>
                         <li class="nav-item">
-=======
->>>>>>> 55f434230ca3d1156bb6bc033930821795532679
                             <a class="nav-link" href="{{ route('libros.index') }}">{{ __('Libros') }}</a>
 
                         </li>
